@@ -1,11 +1,12 @@
-🌍 **ABUDevs** - Ahmadu Bello University Developers 🚀  
+## 🌍ABUDevs <br>
+Ahmadu Bello University Developers 🚀  
 Welcome to ABUDevs, the premier student-led tech community at Ahmadu Bello University, Zaria – Nigeria, founded in 2015! 🎉 With 500+ active members, we’re all about sparking *creativity*, *innovation*, and *collaboration*! 💡🤝  
 
 🌟 **Our Mission**  
-To build a vibrant community of tech enthusiasts—beginners to experts—passionate about learning, innovating, and growing together. 🧑‍💻  
+To build a community of tech enthusiasts, non-techies, beginners, and experts who are passionate about learning, innovating, and growing together. We aim to propagate and nurture creativity and innovation amongst the students of Ahmadu Bello University, Zaria. 🧑‍💻  
 
 🔭 **Our Vision**  
-To be technological catalysts, empowering ICT-proficient students to shine as innovators, professionals, and entrepreneurs in ABU and beyond! 🌐  
+o be technological catalysts in Ahmadu Bello University, enabling ICT proficient students who would be more than just observers of technological development, and the leading tech community in ABU and beyond, empowering our members to become successful tech professionals and entrepreneurs. 🌐  
 
 💻 **What We Do**  
 - **Learn & Share**: Platforms for knowledge exchange in diverse tech fields 📚  
