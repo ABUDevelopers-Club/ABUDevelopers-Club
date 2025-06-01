@@ -1,11 +1,8 @@
-## Hi there 👋
+## Ahmadu Bello University Developers Club
 
 ---
 
-**ABUDevs**  
-*Ahmadu Bello University Developers Club*  
-
-🌍 **About Us**  
+🌍 **ABUDevs**  
 ABUDevs is a vibrant, student-led technology club founded in 2015 at Ahmadu Bello University, Zaria, Nigeria. With over 500 active members, we are a thriving community dedicated to fostering creativity, innovation, and collaboration among students passionate about technology.
 
 🚀 **Our Mission**  
