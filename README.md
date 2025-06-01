@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-Here's a GitHub bio based on the provided information for Ahmadu Bello University Developers (ABUDevs):
-
 ---
 
 **ABUDevs**  
-*Ahmadu Bello University Developers*  
+*Ahmadu Bello University Developers Club*  
 
 🌍 **About Us**  
 ABUDevs is a vibrant, student-led technology club founded in 2015 at Ahmadu Bello University, Zaria, Nigeria. With over 500 active members, we are a thriving community dedicated to fostering creativity, innovation, and collaboration among students passionate about technology.
@@ -22,8 +20,6 @@ To be technological catalysts at Ahmadu Bello University, empowering ICT-profici
 - Empower students to innovate and lead in the tech space.
 
 Join us to learn, create, and shape the future of technology! 🚀  
-📬 Connect with us: [Insert relevant links, e.g., website, social media, or email]
 
 ---
 
-This bio is concise, professional, and tailored for a GitHub profile, reflecting ABUDevs' mission, vision, and activities. Let me know if you'd like to tweak it further or add specific links!
